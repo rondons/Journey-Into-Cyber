@@ -34,8 +34,21 @@ That had been the last thought that Kevin Calicou would ever have...
 
 # . . . 
 
-I was always good with computers. From an early age, typing them
 
+Aeron was always good with computers. Not just computers but all things science always fascinated him from an early age. Understanding how things work, what makes them tick. Knowing not just what something can do but how exactly it does what it does always drove him forwards in life. Not that he went far anyway. A mix of corporate greed, meddling teachers, and a troubled home always leave their impact. So it was no surpise that he had to spend yet another day back at his parents even in his early twenties, listening to another screaming context between his parents downstairs.
+
+At this point he had stopped caring about their fights years ago, tunning them out with music; though that was sometimes impossible due to the way that they often involved him. If he could, he'd have left this place years ago. Unfortunately, jobs were hard to come by. Even among his parents. His father who had worked with a company for over 30 yeras had been recently let go in the lattest budget cuts. The economy plummeted for everyone- well... almost everyone. There were the few whose pockets kept getting richer and richer; the corporate overlords of society. Though whenever his thoughts dwelled too much on these topics, Aeron always felt a tinge of cringe, feeling like a theory conspiracy nut.
+
+Tossing and turning in bed and holding the pillow over his ears in an attempt to muffle the screaming proved to be worthless. They'd keep this up for at least another hour from the sound of it. And if this was the case then he might as well just use this time then if he's not going to be able to sleep anyway.
+
+Aeron sat up on the bed and rubbed his eyes as he looked around his small dirty room. Well, it was more of a nook rather than a propper room; nestled within the attic of the cramped appartment with barely enough space for the bed and the desk. It was such that the bed doubled as a chair. He merely scooted over into the bottom of it, started up his old computer tower and felt some measure of comfort as the loud fans muffled the screaming in part.
+
+This was by no means an ideal setup. If Aeron would have his way, then he certainly would have gotten something much better. For once, something that didn't have a processor that was over six years old, with less than 4 Gigabytes of ram and a graphics card that would make any gamers cry. The thing barely ran games from even 8 years ago; but to Aeron it had always been a window to freedom: a distraction from his current life.
+
+Blue light painted his tanned face as the screen flickered to life, chirping its start-up melody. Not much longer and he was vising the forums he had grown fond of. The forums where like-minded individuals shared their discoveries within the world of Information Tecnology; cibersecurity and computer hardware among many others. His forum name, and the name he most often used online was Rondons. And that's what people knew him as. The anonymity of it all had always a strange appeal to Aeron; in a way it made him feel untouchable, though on the other hand he wondered just how many of his online friends he would keep if they knew his true self. That he was just a twenty-somethings year old living in his parent's attic: jobless, without a university degree, and stuck in one of the worst parts of his country. Someone who had trouble interacting with people beyond the computer screen; and with quite a few more flaws he didn't dare indulge in this moment.
+
+Thankfully, a distraction showed itself in the form of a message from one of his closest friends on the forum. A simple word followed by a link:
+\[Check this out].
 
 
 
