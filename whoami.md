@@ -17,5 +17,6 @@ As a little hobby of mine, I also write stories and short-tales, and fashion som
 
 ### Reach out
 
-Find me on [Twitter](https://twitter.com/Rondons6)
-Find me on [LinkedIn](https://www.linkedin.com/in/guilherme-santos-007b819b/)
+Find me on [Twitter](https://twitter.com/Rondons6).
+
+Find me on [LinkedIn](https://www.linkedin.com/in/guilherme-santos-007b819b/).
