@@ -2,8 +2,6 @@
 ## Rated - Medium
 ###### Disclaimer: This is both a write-up and a short-story. Feel free to skip the story to the highlighted write-up bits if you're uninterested in it.
 
-#
-
 Pullast, the great city in the mist. It was a city of sin and buzzing lights, of loud frivolous casinos and of expensive tastes indulged in every corner. It was also the last lead that Dennis Smith had on his latest case. 
 He couldn't believe he was here again after so long. But he needed some aid in this next job, and he knew just who could aid him in it. He was an odd man, of strange tastes and even stranger methods, but he was a good hacker, and one he knew from his days at the academy. Dennis took in a sharp breath, swallowed his pride, and strolled right into the dingy confines of The Terminal Cult.
 
@@ -101,7 +99,7 @@ Rondons understood, though he did stare like a deer in headlights for a moment. 
 After a few moments of searching around, Rondons was able to sneak away from the crowds of the lower floor. Soon, he found the terminal that Watchdog had mentioned. A small office that was currently empty. He gazed to the right, then to the left, and entered.
 Opening up the terminal, he slipped the USB into the correct port. The file that came up made him smile. That sly dog. Watchdog had prepared a script that would run the brute-force attack for him. This should save some time.
 
-# 
+
 ```
 # Written by WATCHDOG2000 23/01/2021
 # For the Try Hack Me Room 'Sustah'
@@ -130,7 +128,7 @@ for i in range(lowest, highest):
 		print("\n" + resp.text)
 		break
 ```
-# 
+
 
 #### (( Note From the Author: You don't actually have to access any place physically. The true answer lies in using the X-Remote-Addr header as demonstrated in the script above. That will bypass the filter. But for the context of the story, it was more dramatic this way.))
 ![dogpy 1](https://user-images.githubusercontent.com/73745039/105640505-5af3a180-5e76-11eb-89ed-0559116873cb.png)
@@ -188,7 +186,7 @@ Between all these files, one stands out. A certain "doas". Rondons doesn't quite
 \- "I am uh... just checking a few files..." - He tries to mumble an excuse and sound as natural as can be. Slowly he tries to type a bit more but this only seems to alarm the woman more.
 \- "I think I saw you with one of the clients down there! I- I'm going to call security!" - She threatens, and is just about to leave when- 
 
-TONK
+**TONK**
 A hard sound emanates from the broom Watchdog had used to knock this woman out. He took no pleasure in it, and seemed rather apologetic. With grace he hopped over the fallen body of the girl and moved closer to Rondons, worry clearly painting his face as well now: - "Please tell me you're done. I said I was gonna check up on you. They're getting suspicious."
 \- "I'm not sure. I find this Doas SUID, never seen it before."
 Wracking his head around it, Watchdog took a moment to think about it, and then he answered: - "Wait. I think I know. That's like, a replacement for sudo. It lets you run things as another user. Look for a doas configuration file."
@@ -218,5 +216,5 @@ The bust had been a success.
 
 
 ###### Author Note: I hope you've enjoyed this different kind of writeup. If you have any suggestions or comments please feel free to make them. This was made possible with the TryHackMe room Sustah and its design that inspired this short tale.
-###### Also, if you can, check out (Watchdog2000)[https://github.com/watchdog2000], the real one: 
+###### Also, if you can, check out [Watchdog2000](https://github.com/watchdog2000), the real one: 
  
