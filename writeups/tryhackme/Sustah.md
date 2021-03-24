@@ -216,8 +216,7 @@ BANG
 \- "Tell me you got it." - Dennis requested as he drove away, glancing at the two breathless men in the backseat. Watchdog smirked, Rondons smiled, and they both lifted the USB containing all the evidence they needed.
 The bust had been a success.
 
-# 
 
 ###### Author Note: I hope you've enjoyed this different kind of writeup. If you have any suggestions or comments please feel free to make them. This was made possible with the TryHackMe room Sustah and its design that inspired this short tale.
-###### Also, if you can, check out Watchdog2000, the real one: https://github.com/watchdog2000
+###### Also, if you can, check out (Watchdog2000)[https://github.com/watchdog2000], the real one: 
  
