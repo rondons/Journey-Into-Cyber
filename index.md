@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Welcome to Journey into Cyber, an adventure into the world of technology, engineering and hacking.
 
-You can use the [editor on GitHub](https://github.com/rondons/Journey-Into-Cyber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Below are perhaps some helpful links to aid you in navigating these pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Blog
+- Journey into Cyber
 
-### Markdown
+### Tutorials and Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Cybersecurity
+- Software Engineering
+- Network Engineering
+- Eletrotecnical Engineering
+- Stories
 
-```markdown
-Syntax highlighted code block
+### Writeups
 
-# Header 1
-## Header 2
-### Header 3
+- TryHackMe Writeups
+- CTF Writeups
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### A little about me:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rondons/Journey-Into-Cyber/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- (Whoami)[https://rondons.github.io/Journey-Into-Cyber/whoami]
