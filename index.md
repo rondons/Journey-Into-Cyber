@@ -22,4 +22,4 @@ Below are perhaps some helpful links to aid you in navigating these pages.
 
 ### A little about me:
 
-- (Whoami)[https://rondons.github.io/Journey-Into-Cyber/whoami]
+- [Whoami](https://rondons.github.io/Journey-Into-Cyber/whoami)
