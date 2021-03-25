@@ -15,7 +15,7 @@ Below are perhaps some helpful links to aid you in navigating these pages.
 
 ### Writeups
 
-- TryHackMe Writeups
+- [TryHackMe Writeups](https://rondons.github.io/Journey-Into-Cyber/THMWriteups)
 - CTF Writeups
 
 
