@@ -217,4 +217,6 @@ The bust had been a success.
 
 ###### Author Note: I hope you've enjoyed this different kind of writeup. If you have any suggestions or comments please feel free to make them. This was made possible with the TryHackMe room Sustah and its design that inspired this short tale.
 ###### Also, if you can, check out [Watchdog2000](https://github.com/watchdog2000), the real one: 
- 
+
+
+< [Go Back](https://rondons.github.io/Journey-Into-Cyber/THMWriteups)
