@@ -277,7 +277,8 @@ files@safezone:~$
 
 Cracking the hash we can find "files" 's password. This works for their ssh.
 
-```root@ip-10-10-213-155:~# john hash.txt 
+```
+root@ip-10-10-213-155:~# john hash.txt 
 Warning: detected hash type "sha512crypt", but the string is also recognized as "sha512crypt-opencl"
 Use the "--format=sha512crypt-opencl" option to force loading these as that type instead
 Using default input encoding: UTF-8
