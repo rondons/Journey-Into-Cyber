@@ -2,7 +2,6 @@
 
 ###### Disclaimer: This is both a write-up and a short-story. Feel free to skip the story to the highlighted write-up bits if you’re uninterested in it.
 
-#
 
 Working as a security analyst for one of the greatest media companies in her town, Mia Malovka took her job seriously. Having spent a few years studying up to this point there was no way she was going to turn down performing a security audit at her workplace. 
 
